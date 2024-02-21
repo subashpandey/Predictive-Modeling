@@ -5,4 +5,4 @@ This project involves the analysis and prediction of immigration data using line
 
 **Prerequisites**
 Make sure you have the following libraries installed:
--pandas, numpy, scikit-learn, matplotlib
+pandas, numpy, scikit-learn, matplotlib
